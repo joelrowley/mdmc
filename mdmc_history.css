@@ -1,0 +1,44 @@
+html{
+	font-size: 16px;
+}
+body{
+	aspect-ratio: 1 / 1;
+	width: 102%;
+	height: auto;
+	overflow-x: hidden;
+	background: #F2F2F2;
+/*	background: linear-gradient(to bottom, #5E83F3, #F39445);*/
+}
+img{
+	width: 101%;
+	height: auto;
+	margin: -1% 0 0 -1%;
+}
+.invisible{
+	color: transparent;
+	padding: 37px 100px 37px 100px;
+	margin: 2px 0 0 65px;
+	position: absolute;
+	z-index: 9999;
+}
+.invisible1{
+	color: transparent;
+	padding: 37px 100px 37px 100px;
+	margin: 10px 0 0 350px;
+	position: absolute;
+	z-index: 9999;
+}
+.invisible2{
+	color: transparent;
+	padding: 37px 100px 37px 100px;
+	margin: 10px 0 0 700px;
+	position: absolute;
+	z-index: 9999;
+}
+.invisible3{
+	color: transparent;
+	padding: 37px 100px 37px 100px;
+	margin: 10px 0 0 1025px;
+	position: absolute;
+	z-index: 9999;
+}
